@@ -1,6 +1,6 @@
 ### Qui suis-je ?
 - 👋 Bonjour, je suis Maxence Bureau
-- 🌱 Je cherche un premier emploi dans le monde du développement
+- 🌱 Je suis employé chez Resec !
 - 😎 Besoin d'un Développeur Web ? Contactez moi !
 
 ### Où me trouver ?
