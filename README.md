@@ -1,6 +1,6 @@
 ### Qui suis-je ?
 - 👋 Bonjour, je suis Maxence Bureau
-- 🌱 Je suis employé chez Resec !
+- 🌱 Je suis Développeur Web Fullstack !
 - 😎 Besoin d'un Développeur Web ? Contactez moi !
 
 ### Où me trouver ?
